@@ -1,5 +1,5 @@
 # Hi there 👋
-This is **Adebiyi Foluke**
+This is **Adebiyi Foluke** 🥰
 I am a Microbiologist👩‍🔬 turned Data Analyst🤪
 - 🔭 I’m currently working on Data Projects using tools like Excel,Tableau,Sql and python inorder to enhance my growth and improve my skills
 - 🌱 I’m currently learning Programming languages
