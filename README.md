@@ -6,6 +6,6 @@ I am a Microbiologist👩‍🔬 turned Data Analyst🤪
 - 👯 I’m looking to collaborate with individuals,companies and organizations
 - 🤔 I’m looking for help with Data projects to work on to enhance my growth
 - 📫 How to reach me: [here](https://www.linkedin.com/in/adebiyi-foluke-christianah16/)
-- 😄 Pronouns: ...She/her
+- 😄 Pronouns: ...She
 - ⚡ Fun fact: ...I'm always eager to learn new things to make me valuable and skillful in the tech world.
 -->
